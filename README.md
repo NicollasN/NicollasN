@@ -5,10 +5,10 @@ Olá, me chamo Nicollas Neres
 - 😄 Pronomes: ele/dele
 
 <a href="https://github.com/NicollasN/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NicollasN" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=NicollasN&theme=midnight-purple" />
 </a>
 <a href="https://github.com/NicollasN/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicollasN&layout=compact&langs_count=8&card_width=320" />
+  <img height=600 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=NicollasN&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 
 <div style="display: inline_block"><br>
