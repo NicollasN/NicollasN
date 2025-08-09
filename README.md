@@ -1,6 +1,6 @@
 Olá, me chamo Nicollas Neres
 
-- 🔭 Atualmente não trabalho, mas estou cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Trabalho com Jovem Aprendiz na parte de Infraestrutura TI, na empresa Arcellor Mittal, e estou cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estou estudando automações com Python
 - 😄 Pronomes: ele/dele
 
